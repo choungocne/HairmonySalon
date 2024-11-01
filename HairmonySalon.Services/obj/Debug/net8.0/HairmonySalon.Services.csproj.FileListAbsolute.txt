@@ -1,0 +1,15 @@
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\bin\Debug\net8.0\HairmonySalon.Services.deps.json
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\bin\Debug\net8.0\HairmonySalon.Services.dll
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\bin\Debug\net8.0\HairmonySalon.Services.pdb
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\bin\Debug\net8.0\HairmonySalon.Reponsitories.dll
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\bin\Debug\net8.0\HairmonySalon.Reponsitories.pdb
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\HairmonySalon.Services.csproj.AssemblyReference.cache
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\HairmonySalon.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\HairmonySalon.Services.AssemblyInfoInputs.cache
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\HairmonySalon.Services.AssemblyInfo.cs
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\HairmonySalon.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Hairmony.E362A85E.Up2Date
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\HairmonySalon.Services.dll
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\refint\HairmonySalon.Services.dll
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\HairmonySalon.Services.pdb
+C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.Services\obj\Debug\net8.0\ref\HairmonySalon.Services.dll
