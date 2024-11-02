@@ -1,0 +1,21 @@
+K:\Workspace\C#\HarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.csproj.AssemblyReference.cache
+K:\Workspace\C#\HarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+K:\Workspace\C#\HarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.AssemblyInfoInputs.cache
+K:\Workspace\C#\HarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.AssemblyInfo.cs
+K:\Workspace\C#\HarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.csproj.CoreCompileInputs.cache
+K:\Workspace\C#\HarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.sourcelink.json
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\bin\Debug\net8.0\Harmony.Repositories.deps.json
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\bin\Debug\net8.0\Harmony.Repositories.runtimeconfig.json
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\bin\Debug\net8.0\Harmony.Repositories.dll
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\bin\Debug\net8.0\Harmony.Repositories.pdb
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.csproj.AssemblyReference.cache
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.AssemblyInfoInputs.cache
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.AssemblyInfo.cs
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.sourcelink.json
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.dll
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\refint\Harmony.Repositories.dll
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.pdb
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\Harmony.Repositories.genruntimeconfig.cache
+C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Reponsitories\obj\Debug\net8.0\ref\Harmony.Repositories.dll
