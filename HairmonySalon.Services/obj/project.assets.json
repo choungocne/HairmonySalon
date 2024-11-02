@@ -2825,11 +2825,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\Harmony.Services.csproj",
       "projectName": "Harmony.Services",
       "projectPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\Harmony.Services.csproj",
       "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\Harmony.Services.csproj",
+      "projectName": "Harmony.Services",
+      "projectPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\Harmony.Services.csproj",
+      "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\obj\\",
+>>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2851,8 +2859,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj": {
               "projectPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj"
+=======
+            "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj": {
+              "projectPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj"
+>>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
             }
           }
         }

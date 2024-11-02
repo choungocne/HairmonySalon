@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Harmony.Services
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\
+=======
+build_property.ProjectDir = C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonErrornew\HarmonySalonError\HairmonySalon.Services\
+>>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
