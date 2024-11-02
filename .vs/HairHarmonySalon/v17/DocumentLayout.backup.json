@@ -1,151 +1,50 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\services\\picktime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\services\\picktime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\services\\selectstylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\services\\selectstylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D209046-4227-4019-80AE-8A2E00E6DFF3}|HairmonySalon.Services\\Harmony.Services.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D209046-4227-4019-80AE-8A2E00E6DFF3}|HairmonySalon.Services\\Harmony.Services.csproj|solutionrelative:hairmonysalon.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D209046-4227-4019-80AE-8A2E00E6DFF3}|HairmonySalon.Services\\Harmony.Services.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\services\\selectstylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\services\\selectstylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\services\\selectstylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\services\\picktime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\services\\picktime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D209046-4227-4019-80AE-8A2E00E6DFF3}|HairmonySalon.Services\\Harmony.Services.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D209046-4227-4019-80AE-8A2E00E6DFF3}|HairmonySalon.Services\\Harmony.Services.csproj|solutionrelative:hairmonysalon.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D209046-4227-4019-80AE-8A2E00E6DFF3}|HairmonySalon.Services\\Harmony.Services.csproj|c:\\users\\ngoc\\documents\\zalo received files\\harmonysalonerrornew\\harmonysalonerror\\hairmonysalon.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-      "RelativeMoniker": "D:0:0:{4D209046-4227-4019-80AE-8A2E00E6DFF3}|HairmonySalon.Services\\Harmony.Services.csproj|solutionrelative:hairmonysalon.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|c:\\users\\ngoc\\hairharmonysalon\\hairmonysalon.webapplication\\views\\home\\blog_single.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairHarmonySalon.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\blog_single.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -155,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -179,232 +78,120 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
+              "DocumentIndex": 3,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\wwwroot\\css\\account.css*",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\wwwroot\\css\\account.css*",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAowCgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T10:15:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "ViewState": "AgIAANEBAAAAAAAAAAAAAN4BAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-11-02T05:06:22.251Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Account\\Index.cshtml*",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Account\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:09:49.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
-=======
-              "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABZAAAAAAAAAA==",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:50:11.272Z",
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Controllers\\Account.cs",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Controllers\\Account.cs",
+              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Controllers\\Account.cs",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\Controllers\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:09:27.501Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:48:15.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:39:42.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:39:37.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\Privacy.cshtml",
-=======
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "selectstylist.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGsAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:48:15.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:39:42.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:39:37.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:25.584Z",
+              "WhenOpened": "2024-11-02T09:39:09.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAWwAoBAAAXAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAJQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:23.512Z",
+              "WhenOpened": "2024-11-02T09:20:24.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "gallery.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\gallery.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\gallery.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\gallery.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\gallery.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:21.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "blog.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:16.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "about.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\about.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\about.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\about.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\about.cshtml",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:25.584Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowC4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:23.512Z"
+              "WhenOpened": "2024-11-02T09:14:46.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "gallery.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\gallery.cshtml",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\gallery.cshtml",
               "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\gallery.cshtml",
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\gallery.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentIndex": 17,
-              "Title": "Apointment.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml",
-              "RelativeDocumentMoniker": "..\\..\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml",
-              "RelativeToolTip": "..\\..\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:08.043Z"
+              "WhenOpened": "2024-11-02T09:14:43.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Index.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Index.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\Index.cshtml",
-              "ViewState": "AgIAADwBAAAAAAAAAIBJwGYAAAAiAAAAAAAAAA==",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
+              "DocumentIndex": 7,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\contact.cshtml",
+              "ViewState": "AgIAANYAAAAAAAAAAAAcwOcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:21.336Z"
+              "WhenOpened": "2024-11-02T09:14:41.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "blog_single.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\blog_single.cshtml",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\blog_single.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\blog_single.cshtml",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\blog_single.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:14:40.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -414,186 +201,22 @@
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
               "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkBAAAAAAAAAAAcwFQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:16.859Z"
+              "WhenOpened": "2024-11-02T09:14:38.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "about.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\about.cshtml",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\about.cshtml",
               "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\about.cshtml",
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\about.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:11.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Apointment.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml",
-              "RelativeDocumentMoniker": "..\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml",
-              "RelativeToolTip": "..\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\Apointment.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:08.043Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\Index.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\Index.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentIndex": 4,
-              "Title": "picktime.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:06.412Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 12,
-              "Title": "picktime.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
-=======
-              "DocumentIndex": 3,
-              "Title": "selectstylist.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:03.969Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 13,
-              "Title": "selectstylist.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAmwEoAAAAcAAAAAAAAAA==",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:39:01.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T03:38:48.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\appsettings.json",
-=======
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\appsettings.json",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "RelativeToolTip": "HairmonySalon.WebApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T03:38:40.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUserService.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\Interfaces\\IUserService.cs",
-=======
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\Interfaces\\IUserService.cs",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "RelativeToolTip": "HairmonySalon.Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:37:18.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserService.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\UserService.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\UserService.cs",
-=======
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\UserService.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\UserService.cs",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "RelativeToolTip": "HairmonySalon.Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:35:36.626Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Program.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\Program.cs",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-=======
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Program.cs",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Program.cs*",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Program.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswAoAAAA+AAAAAAAAAA==",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:17:16.414Z",
+              "WhenOpened": "2024-11-02T09:14:37.843Z",
               "EditorCaption": ""
             }
           ]

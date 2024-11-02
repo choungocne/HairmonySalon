@@ -821,6 +821,23 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.10",
+          "Microsoft.Extensions.Identity.Stores": "8.0.10"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Identity.UI/8.0.10": {
         "type": "package",
         "dependencies": {
@@ -4099,6 +4116,21 @@
         "lib/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.xml",
         "microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.10.nupkg.sha512",
         "microsoft.aspnetcore.diagnostics.entityframeworkcore.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.10": {
+      "sha512": "vMeY9F3Sq+AiZlquf84rwHOAQBS8nb8kd1RcuoXKPBhHNGBxMLYnr8/e/FCwu7kb14hH/rqWoEuyO4WXpAO6Rw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/8.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+        "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml",
+        "microsoft.aspnetcore.identity.entityframeworkcore.8.0.10.nupkg.sha512",
+        "microsoft.aspnetcore.identity.entityframeworkcore.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Identity.UI/8.0.10": {
@@ -8575,6 +8607,7 @@
       "Harmony.Services >= 1.0.0",
       "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter >= 8.0.10",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 8.0.10",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.10",
       "Microsoft.AspNetCore.Identity.UI >= 8.0.10",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 8.0.10",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
@@ -8590,19 +8623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\HairHarmonySalon.csproj",
       "projectName": "HairHarmonySalon",
       "projectPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\HairHarmonySalon.csproj",
       "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\HairHarmonySalon.csproj",
-      "projectName": "HairHarmonySalon",
-      "projectPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\HairHarmonySalon.csproj",
-      "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\obj\\",
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8624,13 +8649,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-<<<<<<< HEAD
             "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\Harmony.Services.csproj": {
               "projectPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\Harmony.Services.csproj"
-=======
-            "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\Harmony.Services.csproj": {
-              "projectPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.Services\\Harmony.Services.csproj"
->>>>>>> e6bae742f97f96553017a31e4ae76dd7b649cf62
             }
           }
         }
@@ -8655,6 +8675,10 @@
             "version": "[8.0.10, )"
           },
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.10, )"
+          },
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.10, )"
           },
@@ -8709,12 +8733,6 @@
     }
   },
   "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.WebApplication\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    },
     {
       "code": "NU1701",
       "level": "Warning",
