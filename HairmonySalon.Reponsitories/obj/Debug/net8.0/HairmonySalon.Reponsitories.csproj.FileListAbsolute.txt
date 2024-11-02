@@ -21,3 +21,6 @@ C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.Repons
 C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\refint\HairmonySalon.Reponsitories.dll
 C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\HairmonySalon.Reponsitories.pdb
 C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\ref\HairmonySalon.Reponsitories.dll
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.Reponsitories\bin\Debug\net8.0\HairmonySalon.Reponsitories.runtimeconfig.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\HairmonySalon.Reponsitories.csproj.AssemblyReference.cache
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.Reponsitories\obj\Debug\net8.0\HairmonySalon.Reponsitories.genruntimeconfig.cache
