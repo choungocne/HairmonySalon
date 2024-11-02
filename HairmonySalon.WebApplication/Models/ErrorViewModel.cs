@@ -1,4 +1,4 @@
-namespace HairmonySalon.WebApplication.Models
+namespace HairHarmonySalon.Models
 {
 	public class ErrorViewModel
 	{

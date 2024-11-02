@@ -16,10 +16,7 @@
       },
       "HairmonySalon.Reponsitories/1.0.0": {
         "runtime": {
-          "HairmonySalon.Reponsitories.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "HairmonySalon.Reponsitories.dll": {}
         }
       },
       "HairmonySalon.Services/1.0.0": {
@@ -27,10 +24,7 @@
           "HairmonySalon.Reponsitories": "1.0.0"
         },
         "runtime": {
-          "HairmonySalon.Services.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "HairmonySalon.Services.dll": {}
         }
       }
     }

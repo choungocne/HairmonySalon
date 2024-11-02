@@ -1,8 +1,20 @@
+using Harmony.Repositories;
+using Harmony.Repositories.Interfaces;
+using Harmony.Services;
+using Harmony.Services.Interfaces;
+
+using HarmonySalon.Reponsitories.Entities;
+using IdentityServer3.Core.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddDbContext<HarmonySalonContext>();
+//DI repo
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+//I services
+builder.Services.AddScoped<IUserService, UserService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
