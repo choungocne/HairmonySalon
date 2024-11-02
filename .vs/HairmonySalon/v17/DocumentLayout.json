@@ -87,8 +87,7 @@
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\appointment.cshtml",
               "ViewState": "AgIAAKIAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T04:46:34.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T04:46:34.9Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T04:45:36.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T04:45:36.726Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-01T15:23:16.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T15:23:16.717Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T15:09:10.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T15:09:10.444Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
               "ViewState": "AgIAAC8BAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T15:07:11.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T15:07:11.047Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "HairmonySalon.WebApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T15:05:09.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T15:05:09.679Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAACMBAAAAAAAAAIBZwDcBAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T15:04:32.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T15:04:32.157Z"
             }
           ]
         }
