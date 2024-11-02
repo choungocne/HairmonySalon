@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
+using HairHarmonySalon.Models;
 
 namespace HairHarmonySalon.Controllers
 {

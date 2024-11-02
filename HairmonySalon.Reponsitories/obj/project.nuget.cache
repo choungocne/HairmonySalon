@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "3NvpTkb/75A=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
+=======
+  "dgSpecHash": "fkOnvxETh5k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj",
+>>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
   "expectedPackageFiles": [
     "C:\\Users\\Ngoc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

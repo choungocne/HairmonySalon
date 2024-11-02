@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj": {}
   },
   "projects": {
@@ -12,13 +13,22 @@
         "projectPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
         "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\obj\\",
+=======
+    "K:\\Workspace\\C#\\HarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj": {}
+  },
+  "projects": {
+    "K:\\Workspace\\C#\\HarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\Workspace\\C#\\HarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
+        "projectName": "HairmonySalon.Reponsitories",
+        "projectPath": "K:\\Workspace\\C#\\HarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "K:\\Workspace\\C#\\HarmonySalon\\HairmonySalon.Reponsitories\\obj\\",
+>>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +36,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,17 +48,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -57,6 +62,17 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+=======
+            "Insight.Database": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+>>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
               "target": "Package",
               "version": "[8.0.10, )"
             },
@@ -87,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

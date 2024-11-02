@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HairmonySalon.WebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a7ce0271fd94cc7fe14b44dadc2ad08fea5310")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c8e9ab2ca5037dbe8be4eebad05984d411e90a")]
+>>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
 [assembly: System.Reflection.AssemblyProductAttribute("HairmonySalon.WebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HairmonySalon.WebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

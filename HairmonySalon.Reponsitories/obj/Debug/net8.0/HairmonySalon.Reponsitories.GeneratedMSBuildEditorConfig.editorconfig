@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HairmonySalon.Reponsitories
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.Reponsitories\
+=======
+build_property.ProjectDir = K:\Workspace\C#\HarmonySalon\HairmonySalon.Reponsitories\
+>>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
