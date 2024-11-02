@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
+      "projectUniqueName": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
       "projectName": "HairmonySalon.Reponsitories",
-      "projectPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
+      "projectPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
       "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\obj\\",
+      "outputPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

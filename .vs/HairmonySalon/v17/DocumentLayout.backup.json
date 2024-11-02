@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|c:\\users\\ngoc\\source\\repos\\hairmonysalon\\hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|c:\\users\\ngoc\\source\\repos\\hairmonysalon\\hairmonysalon.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|solutionrelative:hairmonysalon.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|c:\\users\\ngoc\\source\\repos\\hairmonysalon\\hairmonysalon.webapplication\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|solutionrelative:hairmonysalon.webapplication\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|c:\\users\\ngoc\\source\\repos\\hairmonysalon\\hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|solutionrelative:hairmonysalon.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5114C3CA-3170-45EE-B562-FC014A072A62}|HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj|c:\\users\\ngoc\\source\\repos\\hairmonysalon\\hairmonysalon.webapplication\\views\\services\\apointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,18 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T15:09:10.444Z"
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-01T15:23:16.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T15:09:10.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "selectstylist.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\selectstylist.cshtml",
@@ -82,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "picktime.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\picktime.cshtml",
@@ -94,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "apointment.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Services\\apointment.cshtml",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Services\\apointment.cshtml",
@@ -106,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Program.cs",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Program.cs",
@@ -118,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\Index.cshtml",

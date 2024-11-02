@@ -34,3 +34,40 @@ C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.WebApplication\obj\Debug\
 C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.pdb
 C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.genruntimeconfig.cache
 C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\ref\HairmonySalon.WebApplication.dll
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.WebApplication.staticwebassets.runtime.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.WebApplication.exe
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.WebApplication.deps.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.WebApplication.runtimeconfig.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.WebApplication.dll
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.WebApplication.pdb
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.Reponsitories.dll
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.Services.dll
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.Services.pdb
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\bin\Debug\net8.0\HairmonySalon.Reponsitories.pdb
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.csproj.AssemblyReference.cache
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.AssemblyInfoInputs.cache
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.AssemblyInfo.cs
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.RazorAssemblyInfo.cache
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.RazorAssemblyInfo.cs
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.sourcelink.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.HairmonySalon.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.HairmonySalon.WebApplication.props
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HairmonySalon.WebApplication.props
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HairmonySalon.WebApplication.props
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\scopedcss\bundle\HairmonySalon.WebApplication.styles.css
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\scopedcss\projectbundle\HairmonySalon.WebApplication.bundle.scp.css
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\Hairmony.1AD7FF38.Up2Date
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.dll
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\refint\HairmonySalon.WebApplication.dll
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.pdb
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairmonySalon.WebApplication.genruntimeconfig.cache
+C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\ref\HairmonySalon.WebApplication.dll

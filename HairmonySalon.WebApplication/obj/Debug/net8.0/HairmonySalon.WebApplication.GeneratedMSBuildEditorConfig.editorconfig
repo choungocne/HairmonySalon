@@ -9,75 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HairmonySalon.WebApplication
 build_property.RootNamespace = HairmonySalon.WebApplication
-build_property.ProjectDir = C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.WebApplication\
+build_property.ProjectDir = C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ngoc\source\repos\HairmonySalon\HairmonySalon.WebApplication
+build_property.MSBuildProjectDirectory = C:\Users\Ngoc\OneDrive - ut.edu.vn\Desktop\HairHarmonySalon\HairmonySalon.WebApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Home/about.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Home/about.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Home/blog.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Home/blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Home/blog_single.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Home/blog_single.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nX3NpbmdsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Home/contact.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Home/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Home/gallery.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Home/gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxnYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Home/Index.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Home/Privacy.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Services/apointment.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Services/apointment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcYXBvaW50bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Services/Index.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Services/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Services/picktime.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Services/picktime.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNccGlja3RpbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Services/selectstylist.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Services/selectstylist.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcc2VsZWN0c3R5bGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Shared/Error.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/_ViewImports.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/_ViewStart.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ngoc/source/repos/HairmonySalon/HairmonySalon.WebApplication/Views/Shared/_Layout.cshtml]
+[C:/Users/Ngoc/OneDrive - ut.edu.vn/Desktop/HairHarmonySalon/HairmonySalon.WebApplication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9w6psw4pxz

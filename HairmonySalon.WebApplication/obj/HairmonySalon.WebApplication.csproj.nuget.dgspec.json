@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj": {}
+    "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj": {
+    "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
         "projectName": "HairmonySalon.Reponsitories",
-        "projectPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
+        "projectPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
         "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\obj\\",
+        "outputPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj": {
+    "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj",
         "projectName": "HairmonySalon.Services",
-        "projectPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj",
+        "projectPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj",
         "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Services\\obj\\",
+        "outputPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj": {
-                "projectPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj"
+              "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj": {
+                "projectPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj": {
+    "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj",
         "projectName": "HairmonySalon.WebApplication",
-        "projectPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj",
+        "projectPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.WebApplication\\HairmonySalon.WebApplication.csproj",
         "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.WebApplication\\obj\\",
+        "outputPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -167,8 +167,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj": {
-                "projectPath": "C:\\Users\\Ngoc\\source\\repos\\HairmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj"
+              "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj": {
+                "projectPath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj"
               }
             }
           }
