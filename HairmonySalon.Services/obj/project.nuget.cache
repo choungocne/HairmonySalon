@@ -1,21 +1,12 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "gWH/4NDncuQ=",
+  "dgSpecHash": "RsmBkFqo/gE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Services\\HairmonySalon.Services.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Ngoc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
-    "C:\\Users\\Ngoc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
-=======
-  "dgSpecHash": "NB9kcE0gsjA=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.Services\\Harmony.Services.csproj",
+  "projectFilePath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\Harmony.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ngoc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\identityserver3\\2.6.3\\identityserver3.2.6.3.nupkg.sha512",
->>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
     "C:\\Users\\Ngoc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
@@ -46,10 +37,7 @@
     "C:\\Users\\Ngoc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-<<<<<<< HEAD
-=======
     "C:\\Users\\Ngoc\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512",
->>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
     "C:\\Users\\Ngoc\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
@@ -74,10 +62,13 @@
     "C:\\Users\\Ngoc\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-<<<<<<< HEAD
-  "logs": []
-=======
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Services\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1701",
       "level": "Warning",
@@ -99,5 +90,4 @@
       ]
     }
   ]
->>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
 }

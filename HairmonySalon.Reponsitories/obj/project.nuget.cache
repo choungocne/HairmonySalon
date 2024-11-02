@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "3NvpTkb/75A=",
+  "dgSpecHash": "p952Hvc3Tw4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ngoc\\OneDrive - ut.edu.vn\\Desktop\\HairHarmonySalon\\HairmonySalon.Reponsitories\\HairmonySalon.Reponsitories.csproj",
-=======
-  "dgSpecHash": "fkOnvxETh5k=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj",
->>>>>>> 09f09dcfd0b92b3f3414a74e7e9587ef523a45c1
+  "projectFilePath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ngoc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -87,5 +81,12 @@
     "C:\\Users\\Ngoc\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Ngoc\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

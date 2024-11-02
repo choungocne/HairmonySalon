@@ -591,3 +591,16 @@ C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\
 C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.pdb
 C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.genruntimeconfig.cache
 C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.WebApplication\obj\Debug\net8.0\ref\HairHarmonySalon.dll
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.csproj.AssemblyReference.cache
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.AssemblyInfoInputs.cache
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.AssemblyInfo.cs
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.RazorAssemblyInfo.cache
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.RazorAssemblyInfo.cs
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.sourcelink.json
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.dll
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\refint\HairHarmonySalon.dll
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.WebApplication\obj\Debug\net8.0\HairHarmonySalon.pdb

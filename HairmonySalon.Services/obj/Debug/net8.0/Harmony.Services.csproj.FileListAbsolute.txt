@@ -20,3 +20,19 @@ C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\
 C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Services\obj\Debug\net8.0\refint\Harmony.Services.dll
 C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.pdb
 C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonError\HarmonySalonError\HairmonySalon.Services\obj\Debug\net8.0\ref\Harmony.Services.dll
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\bin\Debug\net8.0\Harmony.Services.deps.json
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\bin\Debug\net8.0\Harmony.Services.dll
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\bin\Debug\net8.0\Harmony.Services.pdb
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\bin\Debug\net8.0\Harmony.Repositories.dll
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\bin\Debug\net8.0\Harmony.Repositories.pdb
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.csproj.AssemblyReference.cache
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfoInputs.cache
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfo.cs
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.sourcelink.json
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony..42CE93DA.Up2Date
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.dll
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\refint\Harmony.Services.dll
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\Harmony.Services.pdb
+C:\Users\Ngoc\HairHarmonySalon\HairmonySalon.Services\obj\Debug\net8.0\ref\Harmony.Services.dll

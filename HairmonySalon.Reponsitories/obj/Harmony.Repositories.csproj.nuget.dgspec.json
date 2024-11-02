@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj": {}
+    "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj": {
+    "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj",
         "projectName": "Harmony.Repositories",
-        "projectPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj",
+        "projectPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\Harmony.Repositories.csproj",
         "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonError\\HarmonySalonError\\HairmonySalon.Reponsitories\\obj\\",
+        "outputPath": "C:\\Users\\Ngoc\\HairHarmonySalon\\HairmonySalon.Reponsitories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
