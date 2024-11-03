@@ -1,61 +1,43 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Haircare - Free Bootstrap 4 Template by Colorlib</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed:500,600,700&display=swap" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-
-    <link rel="stylesheet" href="css/aos.css">
-
-    <link rel="stylesheet" href="css/ionicons.min.css">
-
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="css/jquery.timepicker.css">
-
-
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/icomoon.css">
-    <link rel="stylesheet" href="css/style.css">
-</head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-        <div class="container">
-            <a class="navbar-brand" href="index.html"><span class="flaticon-scissors-in-a-hair-salon-badge"></span>Haircare</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="oi oi-menu"></span> Menu
-            </button>
+   
+    <style>
+        .btn:active {
+            transform: scale(0.95); /* Hiệu ứng thu nhỏ nút khi nhấn */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
 
-            <div class="collapse navbar-collapse" id="ftco-nav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
-                    <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
-                    <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
-                    <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                    <li class="nav-item active"><a href="blog.html" class="nav-link">Blog</a></li>
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <!-- END nav -->
+        .container {
+            width: 80%;
+            margin: 20px auto;
+        }
 
+
+        /* Hiệu ứng gợn sóng */
+        .btn {
+            position: relative;
+            overflow: hidden; /* Ẩn gợn sóng ra ngoài nút */
+        }
+
+            .btn .ripple {
+                position: absolute;
+                width: 20px;
+                height: 20px;
+                background: rgba(255, 255, 255, 0.6);
+                border-radius: 50%;
+                transform: scale(0);
+                animation: ripple-animation 0.6s linear;
+            }
+    </style>
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg-1.jpg');" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-center">
                 <div class="col-md-9 ftco-animate pb-5 text-center">
-                    <h2 class="mb-0 bread">Blog</h2>
-                    <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-round-forward"></i></a></span> <span class="mr-2"><a href="blog.html">Blog <i class="ion-ios-arrow-forward"></i></a></span> <span>Blog <i class="ion-ios-arrow-round-forward"></i></span></p>
+                    <h2 class="mb-0 bread">Blog_Single</h2>
+                    <p class="breadcrumbs"><span class="mr-2"><a href="/Home">Home <i class="ion-ios-arrow-round-forward"></i></a></span> <span class="mr-2"><a href="/home/blog">Blog <i class="ion-ios-arrow-forward"></i></a></span> <span>Blog_Single <i class="ion-ios-arrow-round-forward"></i></span></p>
                 </div>
             </div>
         </div>
@@ -97,119 +79,7 @@
                     </div>
 
 
-                    <div class="pt-5 mt-5">
-                        <h3 class="mb-5">6 Comments</h3>
-                        <ul class="comment-list">
-                            <li class="comment">
-                                <div class="vcard bio">
-                                    <img src="images/person_1.jpg" alt="Image placeholder">
-                                </div>
-                                <div class="comment-body">
-                                    <h3>John Doe</h3>
-                                    <div class="meta">Sept. 12, 2019 at 2:21pm</div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                    <p><a href="#" class="reply">Reply</a></p>
-                                </div>
-                            </li>
-
-                            <li class="comment">
-                                <div class="vcard bio">
-                                    <img src="images/person_1.jpg" alt="Image placeholder">
-                                </div>
-                                <div class="comment-body">
-                                    <h3>John Doe</h3>
-                                    <div class="meta">Sept. 12, 2019 at 2:21pm</div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                    <p><a href="#" class="reply">Reply</a></p>
-                                </div>
-
-                                <ul class="children">
-                                    <li class="comment">
-                                        <div class="vcard bio">
-                                            <img src="images/person_1.jpg" alt="Image placeholder">
-                                        </div>
-                                        <div class="comment-body">
-                                            <h3>John Doe</h3>
-                                            <div class="meta">Sept. 12, 2019 at 2:21pm</div>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                            <p><a href="#" class="reply">Reply</a></p>
-                                        </div>
-
-
-                                        <ul class="children">
-                                            <li class="comment">
-                                                <div class="vcard bio">
-                                                    <img src="images/person_1.jpg" alt="Image placeholder">
-                                                </div>
-                                                <div class="comment-body">
-                                                    <h3>John Doe</h3>
-                                                    <div class="meta">Sept. 12, 2019 at 2:21pm</div>
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                                    <p><a href="#" class="reply">Reply</a></p>
-                                                </div>
-
-                                                <ul class="children">
-                                                    <li class="comment">
-                                                        <div class="vcard bio">
-                                                            <img src="images/person_1.jpg" alt="Image placeholder">
-                                                        </div>
-                                                        <div class="comment-body">
-                                                            <h3>John Doe</h3>
-                                                            <div class="meta">Sept. 12, 2019 at 2:21pm</div>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                                            <p><a href="#" class="reply">Reply</a></p>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="comment">
-                                <div class="vcard bio">
-                                    <img src="images/person_1.jpg" alt="Image placeholder">
-                                </div>
-                                <div class="comment-body">
-                                    <h3>John Doe</h3>
-                                    <div class="meta">Sept. 12, 2019 at 2:21pm</div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                    <p><a href="#" class="reply">Reply</a></p>
-                                </div>
-                            </li>
-                        </ul>
-                        <!-- END comment-list -->
-
-                        <div class="comment-form-wrap pt-5">
-                            <h3 class="mb-5">Leave a comment</h3>
-                            <form action="#" class="p-5 bg-light">
-                                <div class="form-group">
-                                    <label for="name">Name *</label>
-                                    <input type="text" class="form-control" id="name">
-                                </div>
-                                <div class="form-group">
-                                    <label for="email">Email *</label>
-                                    <input type="email" class="form-control" id="email">
-                                </div>
-                                <div class="form-group">
-                                    <label for="website">Website</label>
-                                    <input type="url" class="form-control" id="website">
-                                </div>
-
-                                <div class="form-group">
-                                    <label for="message">Message</label>
-                                    <textarea name="" id="message" cols="30" rows="10" class="form-control"></textarea>
-                                </div>
-                                <div class="form-group">
-                                    <input type="submit" value="Post Comment" class="btn py-3 px-4 btn-primary">
-                                </div>
-
-                            </form>
-                        </div>
-                    </div>
-
-                </div> <!-- .col-md-8 -->
+                  
 
                 <div class="col-lg-4 sidebar ftco-animate">
                     <div class="sidebar-box bg-light">
@@ -235,39 +105,48 @@
                     <div class="sidebar-box bg-light ftco-animate">
                         <h3 class="heading-2">Recent Blog</h3>
                         <div class="block-21 mb-4 d-flex">
-                            <a class="blog-img mr-4" style="background-image: url(images/work-1.jpg);"></a>
+                            <a class="blog-img mr-4" style="background-image: url('https://cdn-jngld.nitrocdn.com/PdMWviucTwcEYDgnLjwRxGZIpCJjrgOy/assets/images/optimized/rev-c033c4f/www.myhaircare.com.au/blog/wp-content/uploads/2024/08/Untitled-design-2024-07-22T134340.099.png');">
+                            </a>
+
                             <div class="text">
-                                <h3 class="heading-1"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                                <h3 class="heading-1"><a href="https://www.myhaircare.com.au/blog/post-colour-treatment/">Colour and chemical hair treatments can wreak havoc on your hair in the long run. They might enhance the beauty of your hair temporarily, but you need to think…</a></h3>
                                 <div class="meta">
-                                    <div><a href="#"><span class="icon-calendar"></span> Sept. 12, 2019</a></div>
-                                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                                    <div><a href="#">October 15, 2024</a></div>
+                                    <div><a href="#">Admin</a></div>
+                                    <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 0</a></div>
                                 </div>
                             </div>
                         </div>
                         <div class="block-21 mb-4 d-flex">
-                            <a class="blog-img mr-4" style="background-image: url(images/work-2.jpg);"></a>
+                            <a class="blog-img mr-4" style="background-image: url('https://brickellmensproducts.com/cdn/shop/articles/howtochoosepomade.jpg?v=1701882060');">
+                            </a>
                             <div class="text">
-                                <h3 class="heading-1"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                                <h3 class="heading-1">
+                                    <a href="/blogs/grooming-manual/how-to-choose-the-right-pomade-for-your-hairstyle">Not sure which pomade suits your hairstyle? Learn how to select the best pomade for your hair type and styling preferences in this guide.</a>
+                                </h3>
                                 <div class="meta">
-                                    <div><a href="#"><span class="icon-calendar"></span> Sept. 12, 2019</a></div>
-                                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                                    <div><a href="#">October 8, 2024</a></div>
+                                    <div><a href="#">Admin</a></div>
+                                    <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 0</a></div>
                                 </div>
                             </div>
                         </div>
                         <div class="block-21 mb-4 d-flex">
-                            <a class="blog-img mr-4" style="background-image: url(images/work-3.jpg);"></a>
+                            <a class="blog-img mr-4" style="background-image: url('https://cdn-jngld.nitrocdn.com/PdMWviucTwcEYDgnLjwRxGZIpCJjrgOy/assets/images/optimized/rev-c033c4f/www.myhaircare.com.au/blog/wp-content/uploads/2024/09/Untitled-design-2024-09-03T144450.738.png');">
+                            </a>
                             <div class="text">
-                                <h3 class="heading-1"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                                <h3 class="heading-1">
+                                    <a href="https://www.myhaircare.com.au/blog/maintain-platinum-hair/">
+                                        The quest to maintain platinum hair at home is not easy. Find out what haircare practices and products to use to keep it vibrant and healthy.
+                                    </a>
+                                </h3>
                                 <div class="meta">
-                                    <div><a href="#"><span class="icon-calendar"></span> Sept. 12, 2019</a></div>
-                                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                                    <div><a href="#">October 1, 2024</a></div>
+                                    <div><a href="#">Admin</a></div>
+                                    <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 0</a></div>
                                 </div>
                             </div>
                         </div>
-                    </div>
 
                     <div class="sidebar-box bg-light ftco-animate">
                         <h3 class="heading-2">Tag Cloud</h3>
