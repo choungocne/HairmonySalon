@@ -1,7 +1,9 @@
 ﻿using Harmony.Repositories.Interfaces;
 using HarmonySalon.Reponsitories.Entities;
-using IdentityServer3.Core.Models;
-using IdentityServer3.Core.Services;
+using Duende.IdentityServer.Models;
+using Duende.IdentityServer.Services;
+
+
 
 namespace Harmony.Services
 {
@@ -13,44 +15,38 @@ namespace Harmony.Services
 			_repository = repository;
 		}
 
-		public Task AuthenticateExternalAsync(ExternalAuthenticationContext context)
+		public void AssignUserGroupPermission(int groupId, char permission, params int[] entityIds)
 		{
 			throw new NotImplementedException();
 		}
 
-		public Task AuthenticateLocalAsync(LocalAuthenticationContext context)
+		
+
+		public void ClearLoginSession(Guid sessionId)
 		{
 			throw new NotImplementedException();
 		}
 
-		public Task GetProfileDataAsync(ProfileDataRequestContext context)
+		public int ClearLoginSessions(int userId)
 		{
 			throw new NotImplementedException();
 		}
 
-		public Task IsActiveAsync(IsActiveContext context)
+		public Guid CreateLoginSession(int userId, string requestingIpAddress)
 		{
 			throw new NotImplementedException();
 		}
 
-		public Task PostAuthenticateAsync(PostAuthenticationContext context)
-		{
-			throw new NotImplementedException();
-		}
-
-		public Task PreAuthenticateAsync(PreAuthenticationContext context)
-		{
-			throw new NotImplementedException();
-		}
-
-		public Task SignOutAsync(SignOutContext context)
-		{
-			throw new NotImplementedException();
-		}
+		
 
 		public Task<List<User>> Users()
 		{
 			return _repository.GetAllUser();
+		}
+
+		public bool ValidateLoginSession(int userId, Guid sessionId)
+		{
+			throw new NotImplementedException();
 		}
 	}
 }

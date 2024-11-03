@@ -135,9 +135,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "IdentityServer3": {
+            "Duende.IdentityServer": {
               "target": "Package",
-              "version": "[2.6.3, )"
+              "version": "[7.0.8, )"
             }
           },
           "imports": [
