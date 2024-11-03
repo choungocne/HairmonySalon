@@ -1,7 +1,6 @@
 ﻿using Harmony.Repositories.Interfaces;
 using HarmonySalon.Reponsitories.Entities;
-using IdentityServer3.Core.Models;
-using IdentityServer3.Core.Services;
+using Harmony.Services.Interfaces;
 
 namespace Harmony.Services
 {
