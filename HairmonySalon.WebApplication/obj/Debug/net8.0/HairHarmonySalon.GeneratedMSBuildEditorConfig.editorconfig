@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Ngoc\Documents\Zalo Received Files\HarmonySalonErrornew\HarmonySalonError\HairmonySalon.WebApplication
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Ngoc/Documents/Zalo Received Files/HarmonySalonErrornew/HarmonySalonError/HairmonySalon.WebApplication/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Ngoc/Documents/Zalo Received Files/HarmonySalonErrornew/HarmonySalonError/HairmonySalon.WebApplication/Views/Home/about.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

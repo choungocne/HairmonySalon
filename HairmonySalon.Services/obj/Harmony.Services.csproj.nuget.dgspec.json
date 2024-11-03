@@ -134,15 +134,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-<<<<<<< HEAD
-=======
-          "dependencies": {
-            "Duende.IdentityServer": {
-              "target": "Package",
-              "version": "[7.0.8, )"
-            }
-          },
->>>>>>> e5ccdb388b3ff135e611b16a1b7e08d9e9f1d629
           "imports": [
             "net461",
             "net462",
