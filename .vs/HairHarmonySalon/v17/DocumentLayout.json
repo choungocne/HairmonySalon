@@ -100,15 +100,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HairHarmonySalon",
+              "Title": "HairHarmonySalon.csproj",
               "DocumentMoniker": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\HairHarmonySalon.csproj",
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\HairHarmonySalon.csproj",
               "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\HairHarmonySalon.csproj",
               "RelativeToolTip": "HairmonySalon.WebApplication\\HairHarmonySalon.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-03T16:39:11.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T16:39:11.124Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "HairmonySalon.Reponsitories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T16:03:06.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T16:03:06.392Z"
             },
             {
               "$type": "Document",
@@ -157,8 +155,7 @@
               "RelativeToolTip": "HairmonySalon.WebApplication\\Controllers\\ServicesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T10:19:08.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T10:19:08.587Z"
             },
             {
               "$type": "Document",
@@ -288,7 +285,7 @@
               "RelativeDocumentMoniker": "HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
               "ToolTip": "C:\\Users\\Ngoc\\Documents\\Zalo Received Files\\HarmonySalonErrornew\\HarmonySalonError\\HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
               "RelativeToolTip": "HairmonySalon.WebApplication\\Views\\Home\\blog.cshtml",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAswKMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswKQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-02T09:14:38.972Z",
               "EditorCaption": ""
