@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <PackageReference Include="Duende.IdentityServer" Version="7.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+>>>>>>> e5ccdb388b3ff135e611b16a1b7e08d9e9f1d629
     <ProjectReference Include="..\HairmonySalon.Reponsitories\Harmony.Repositories.csproj" />
   </ItemGroup>
 

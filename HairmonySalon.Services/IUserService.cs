@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,3 +11,11 @@ namespace Harmony.Services
     {
     }
 }
+=======
+﻿namespace Harmony.Services
+{
+	public interface IUserService
+	{
+	}
+}
+>>>>>>> e5ccdb388b3ff135e611b16a1b7e08d9e9f1d629
