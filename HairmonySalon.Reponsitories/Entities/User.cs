@@ -14,6 +14,8 @@ public partial class User
     public string Password { get; set; } = null!;
 
     public string? Phone { get; set; }
+    public string? Address { get; set; }
+    public DateTime? Birth { get; set; }
 
     public string UserType { get; set; } = null!;
 
