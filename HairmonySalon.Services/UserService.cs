@@ -1,14 +1,7 @@
 ﻿using Harmony.Repositories.Interfaces;
 using HarmonySalon.Reponsitories.Entities;
-<<<<<<< HEAD
 using Harmony.Services;
-=======
-using Duende.IdentityServer.Models;
-using Duende.IdentityServer.Services;
 
-
-
->>>>>>> e5ccdb388b3ff135e611b16a1b7e08d9e9f1d629
 namespace Harmony.Services
 {
 	public class UserService : IUserService
@@ -19,8 +12,6 @@ namespace Harmony.Services
 			_repository = repository;
 		}
 
-<<<<<<< HEAD
-=======
 		public void AssignUserGroupPermission(int groupId, char permission, params int[] entityIds)
 		{
 			throw new NotImplementedException();
@@ -44,7 +35,6 @@ namespace Harmony.Services
 		}
 
 		
->>>>>>> e5ccdb388b3ff135e611b16a1b7e08d9e9f1d629
 
 		public Task<List<User>> Users()
 		{
@@ -55,12 +45,5 @@ namespace Harmony.Services
 		{
 			throw new NotImplementedException();
 		}
-	}
-}
-
-namespace Harmony.Services
-{
-	public interface IUserService
-	{
 	}
 }
