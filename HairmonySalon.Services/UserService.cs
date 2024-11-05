@@ -1,10 +1,10 @@
 ﻿using Harmony.Repositories.Interfaces;
 using HarmonySalon.Reponsitories.Entities;
-using Harmony.Services;
+using Harmony.Services.Interfaces;
 
 namespace Harmony.Services
 {
-	public class UserService : IUserService
+    public class UserService : IUserService
 	{
 		private readonly IUserRepository _repository;
 		public UserService(IUserRepository repository)

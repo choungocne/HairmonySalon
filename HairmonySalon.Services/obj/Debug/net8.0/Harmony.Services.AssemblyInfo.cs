@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harmony.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84bbbd954ddafe92f069037123bf75465c94495c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b461eaac726b0af69f36126505dfd227b2fed80f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harmony.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harmony.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
